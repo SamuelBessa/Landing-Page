@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+:root{
+    --bootom-1: hsl(171, 66%, 44%);
+    --bootom-2:  hsl(233, 100%, 69%);
+    --text-title:  hsl(210, 10%, 33%);
+    --text-paragraph:  hsl(201, 11%, 66%);
+}
+
+ul{
+    list-style: none;
+}
