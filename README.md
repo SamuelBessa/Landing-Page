@@ -3,6 +3,7 @@
 Este projeto foi uma "quest" do curso Dev-Quest, desenvolvida para aplicar conhecimentos de HTML e CSS e finalizar um módulo do curso. Trata-se de um projeto simples, focado em prática e entrega.
 
 ## Preview
+![Preview do Projeto](./src/gif/tela.gif.gif)
 
 ## Tecnologias Utilizadas
 
